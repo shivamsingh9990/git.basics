@@ -4,6 +4,7 @@
 - it hepls track changes in source code and colloborate with others.
 
 ### 2. installing
+
 ```bash
 - download git
 - check version: get --version
@@ -21,9 +22,9 @@ git config --global user.email "shivamsinghmaurya9@gmail.com"
 3. git commit -m "message" -commit changes
 4. git push -send changed to remote (github)
 
-
 ### 5. key git command
-1. 
+
+1.
 
 ### initialization
 
@@ -31,12 +32,14 @@ git config --global user.email "shivamsinghmaurya9@gmail.com"
 git init
 ```
 
+### tracking changes
 
-### tracking changes 
-```bash 
+```bash
 git status
 ```
-### undoing changes 
+
+### undoing changes
+
 ```bash
 git checkout --<file>
 get reset HEAD --<file>
