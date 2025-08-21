@@ -20,3 +20,24 @@ git config --global user.email "shivamsinghmaurya9@gmail.com"
 2. git add <filename> - stage changes
 3. git commit -m "message" -commit changes
 4. git push -send changed to remote (github)
+
+
+### 5. key git command
+1. 
+
+### initialization
+
+```bash
+git init
+```
+
+
+### tracking changes 
+```bash 
+git status
+```
+### undoing changes 
+```bash
+git checkout --<file>
+get reset HEAD --<file>
+```
